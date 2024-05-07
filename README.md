@@ -54,4 +54,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/xOmari/Active-Directory-lab/blob/main/README.md">Active directory lab</a>
+- <a href="https://github.com/xOmari/Omar.test/blob/main/Risk%20Assesment.docx">Securitt assessment on Fake Company</a>
   
