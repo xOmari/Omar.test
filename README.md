@@ -18,10 +18,10 @@ I have worked with AWS and Azure, focusing on access control, network security, 
 |-----------------------------------------------|
 | SIEM Implementation and Log Analysis          |
 | Network Traffic Monitoring and Attack Detection | 
-| Security Automation with Shuffle SOAR         | 
+| Vulnerability scanning and risk detection using Qualys | 
 | Incident Response Planning and Execution      |
-| Case Management with TheHive                  | 
-| Scripting and Automation for Threat Mitigation | 
+| Cloud monitoring and observability using Datadog | 
+| Scripting and Automation for Threat Mitigation |
 
 ## Tools
 
