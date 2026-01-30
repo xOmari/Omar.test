@@ -8,7 +8,9 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Devsecops.
+My journey in computer science has led me to develop a strong interest in cybersecurity and cloud security. I have hands-on experience working with cloud environments, security monitoring, and identifying security risks caused by misconfigurations.
+
+I have worked with AWS and Azure, focusing on access control, network security, logging, and threat detection. Through practical labs and projects, I have investigated security alerts, identified exposed data, and helped reduce security risks by applying best security practices.
 
 ## Skills
 
