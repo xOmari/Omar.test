@@ -49,7 +49,8 @@ I have worked with AWS and Azure, focusing on access control, network security, 
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Network_Basics-green" />
+<img src="https://img.shields.io/badge/Terraform_Associate-green" />
+<img src="https://img.shields.io/badge/AWS_Soulitions_Architech-orange" />
 
 
 ## Projects
